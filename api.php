@@ -1,7 +1,7 @@
 <?php
 // Fetch environment variables
 $serverName = getenv('a4');
-$database = getenv('patients');
+$database = getenv('Patients');
 $username = getenv('A4');
 $password = getenv('Test1234!');
 
